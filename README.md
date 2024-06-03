@@ -35,8 +35,8 @@ Mobile design
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/induwara-thisarindu/four-card-feature-section]
+- Live Site URL: [https://four-card-feature-section-fm.netlify.app/]
 
 ## My process
 
