@@ -92,19 +92,19 @@ body {
 }
 
 .border-top-cyan {
-    border-top: 10px solid var(--cyan);
+    border-top: 5px solid var(--cyan);
 }
 
 .border-top-red {
-    border-top: 10px solid var(--red);
+    border-top: 5px solid var(--red);
 }
 
 .border-top-orange {
-    border-top: 10px solid var(--orange);
+    border-top: 5px solid var(--orange);
 }
 
 .border-top-blue {
-    border-top: 10px solid var(--blue);
+    border-top: 5px solid var(--blue);
 }
 
 @media (min-width: 1150px) {
